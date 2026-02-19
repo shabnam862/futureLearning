@@ -1,0 +1,19 @@
+Fundamental of Web 
+>> we have famous stacks in web world 
+MERN (mango DB[data base], Express JS[Backend], React[Front End], Node JS[Backend]) >> for Ecommerce , chat bot etc
+MEAN(mango DB, Express Js, Angular, Node JS)>> for Ecommerce , chat bot etc
+java full stack >> usually used for enterprise application
+>> three pillars [the browser or server response gives 3 files that is listed below]
+HTML
+CSS
+JS
+
+SDLC(software development life cycle)
+
+>> URl(uniform resource locator)
+https://instagram.com/
+URl consists of 
+protocol [set of rules/instruction ] -- http, https, ftp, udp, smtp, ip
+domain [unique identification ex- google or infosys we dont have 2 website with google or infosys name ]
+sub domain [sub domain in main doamin like gmeet in google]
+path
